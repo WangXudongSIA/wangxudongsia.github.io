@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">A Unified and Learnable Framework to Post-training Quantization for Transformer-based Large Foundation Models</div> 
     <div class="author"><strong>Jiaqi Zhao</strong>, Chao Zeng, Ming Wang, Linxuan Han, Yuzhang Shang, Miao Zhang*, Liqiang Nie.</div>
-    <div class="periodical"><em><strong>IEEE TPAMI </strong>, Aug. 2025.</em></div>
+    <div class="periodical"><em><strong>IEEE TPAMI 2025</strong>, Aug. 2025.</em></div>
 <!--     <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
