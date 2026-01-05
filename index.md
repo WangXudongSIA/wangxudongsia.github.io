@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://miaozhang0525.github.io/" target="_blank"> Zhi Han</a>. Before UCAS, I received my banchelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral). 
+I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my banchelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral). 
 
 My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**.
 
