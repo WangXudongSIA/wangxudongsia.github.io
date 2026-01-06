@@ -46,4 +46,4 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 
 - **Xudong Wang**, Xi’ai Chen#, Weihong Ren, Zhi Han, Huijie Fan, Yandong Tang, Lianqing Liu. Compensation Atmospheric Scattering Model and Two-Branch Network for Single Image Dehazing. IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.
 
-- Xudong Wang, Xi’ai Chen#, Feifan Wang, Chonglong Xu, Yandong Tang. Image Recovery and Object Detection Integrated Algorithms for Robots in Harsh Battlefield Environments. International Conference on Intelligent Robotics and Applications, 2023.
+- **Xudong Wang**, Xi’ai Chen#, Feifan Wang, Chonglong Xu, Yandong Tang. Image Recovery and Object Detection Integrated Algorithms for Robots in Harsh Battlefield Environments. International Conference on Intelligent Robotics and Applications, 2023.
