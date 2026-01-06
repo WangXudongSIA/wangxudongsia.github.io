@@ -12,7 +12,7 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 
 ## News
 
-- **[Dec. 2025]** I am honored to have been selected for the **China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral).**
+- **[Dec. 2025]** I am honored to have been selected for the **China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral)**!
 
 - **[Nov. 2025]** One first-author paper about **Robotic Harsh Environment Perception** has been accepted by **IEEE Transactions on Multimedia (CCF-B, Q1)**, thanks for co-authors!
 
@@ -31,3 +31,19 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 - **[Jun. 2023]** One first-author paper about **Robotic Harsh Environment Perception** has been accepted by **ICIRA 2023 (Oral Presentation)**, thanks for co-authors!
 
 - **[Sept. 2022]** I join in UCAS and become a first-year M.S. student!
+
+- ## Selected Publications
+
+- Xudong Wang*, Zebin Han*, Zhiyu Liu, Gan Li, Jiahua Dong, Baichen Liu, Lianqing Liu, Zhi Han#. Lifelong Language-Conditioned Robotic Manipulation Learning. AAAI Conference on Artificial Intelligence, 2026.
+
+- Zebin Han, Xudong Wang#, Baichen Liu, Qi Lyu, Zhenduo Shang, Jiahua Dong, Lianqing Liu, Zhi Han. SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning. AAAI Conference on Artificial Intelligence, 2026.
+
+- Jiahua Dong*, Xudong Wang*, Wenqi Lian, Zongyan Han, Meng Cao, Duzhen Zhang, Hanbin Zhao, Zhi Han#, Salman Khan, Fahad Shahbaz Khan. Bring Your Dreams to Life: Continual Text-to-Video Customization. AAAI Conference on Artificial Intelligence, 2026.
+
+- Xudong Wang, Xi’ai Chen#, Huijie Fan, Weihong Ren, Shuai Wang, Yandong Tang, Zhi Han. “Seeing Only the Focus: RGB-T Object-Aware Region Enhancement for Object Detection in Harsh Environments”. IEEE Transactions on Multimedia, 2026.
+
+- Xudong Wang, Weihong Ren, Xi’ai Chen#, Huijie Fan, Yandong Tang, Zhi Han. Uni-YOLO: Vision-Language Model-Guided YOLO for Robust and Fast Universal Detection in the Open World. ACM International Conference on Multimedia, 2024.
+
+- Xudong Wang, Xi’ai Chen#, Weihong Ren, Zhi Han, Huijie Fan, Yandong Tang, Lianqing Liu. Compensation Atmospheric Scattering Model and Two-Branch Network for Single Image Dehazing. IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.
+
+- Xudong Wang, Xi’ai Chen#, Feifan Wang, Chonglong Xu, Yandong Tang. Image Recovery and Object Detection Integrated Algorithms for Robots in Harsh Battlefield Environments. International Conference on Intelligent Robotics and Applications, 2023.
