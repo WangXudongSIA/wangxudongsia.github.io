@@ -8,9 +8,11 @@ I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Syste
 
 My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**.
 
-I also serve as CAA, AAAI Member and the reviewer for several conferences and journals such as ICLR, NeurIPS, CVPR, ICCV, ACM MM, AAAI and TIP, TCYB, TNNLS, TII, RAL.
+I also serve as CAA, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI and TIP, TCYB, TNNLS, TII, RAL.
 
 ## News
+
+- **[Jan. 2026]** Two Co-first-author paper about **Lifelong Robotic Embodied Navigation** and **All-day Lifelong Robotic Navigation** has been accepted by **ICLR 2026**, thanks for co-authors!
 
 - **[Dec. 2025]** I am honored to have been selected for the **China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral)**!
 
@@ -34,6 +36,10 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
+
+- **Xudong Wang**†, Jiahua Dong†, Baichen Liu#, Qi Lyu, Lianqing Liu, Zhi Han#. Lifelong Embodied Navigation Learning. International Conference on Learning Representations, 2026.
+
+- **Xudong Wang**†, Gan Li†, Zhiyu Liu, Yao Wang, Lianqing Liu, Zhi Han#. All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation. International Conference on Learning Representations, 2026.
 
 - **Xudong Wang**†, Zebin Han†, Zhiyu Liu, Gan Li, Jiahua Dong, Baichen Liu, Lianqing Liu, Zhi Han#. Lifelong Language-Conditioned Robotic Manipulation Learning. AAAI Conference on Artificial Intelligence, 2026.
 
