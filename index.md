@@ -12,6 +12,8 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 
 ## News
 
+- **[Feb. 2026]** One first-author paper about **Lifelong Robotic Manipulation Learning** has been accepted by **IEEE CVPR 2026**, thanks for co-authors!
+
 - **[Jan. 2026]** Two Co-first-author paper about **Lifelong Robotic Embodied Navigation** and **All-day Lifelong Robotic Navigation** has been accepted by **ICLR 2026**, thanks for co-authors!
 
 - **[Dec. 2025]** I am honored to have been selected for the **China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral)**!
@@ -37,6 +39,8 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
 
+- Jiahua Dong†, **Xudong Wang**†, Zebin Han, Wenqi Liang, Duzhen Zhang, Meng Cao, Nicu Sebe, Ivan Laptev, Zhi Han#, Fahad Shahbaz Khan, Salman Khan. Continual Vision-Language Action Learning in Robotic Manipulation. **Conference on Computer Vision and Pattern Recognition, 2026**.
+- 
 - **Xudong Wang**†, Jiahua Dong†, Baichen Liu#, Qi Lyu, Lianqing Liu, Zhi Han#. Lifelong Embodied Navigation Learning. **International Conference on Learning Representations, 2026**.
 
 - **Xudong Wang**†, Gan Li†, Zhiyu Liu, Yao Wang, Lianqing Liu, Zhi Han#. All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation. **International Conference on Learning Representations, 2026**.
