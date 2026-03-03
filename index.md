@@ -12,7 +12,11 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 
 ## News
 
-- **[Feb. 2026]** One first-author paper about **Lifelong Robotic Manipulation Learning** has been accepted by **IEEE CVPR 2026**, thanks for co-authors!
+- **[Feb. 2026]** One Co-author paper about **Continual Video Instance Segmentation** has been accepted by **IEEE Transactions on Image Processing (CCF-A, Q1)**, congratulations to Baichen and Qi Lyu!
+ 
+- **[Feb. 2026]** One Co-first-author paper about **Lifelong Robotic Manipulation Learning** has been accepted by **IEEE CVPR 2026**, thanks for co-authors!
+  
+- **[Jan. 2026]** One Co-author paper about **Tensor Recovery** has been accepted by **ICLR 2026**, congratulations to Zhiyu!
 
 - **[Jan. 2026]** Two Co-first-author paper about **Lifelong Robotic Embodied Navigation** and **All-day Lifelong Robotic Navigation** has been accepted by **ICLR 2026**, thanks for co-authors!
 
@@ -39,8 +43,12 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
 
+- Baichen Liu, Qi Lyu, **Xudong Wang**, Jiahua Dong, Lianqing Liu, Zhi Han. CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation. **IEEE Transactions on Image Processing, 2026**.
+
 - Jiahua Dong†, **Xudong Wang**†, Zebin Han, Wenqi Liang, Duzhen Zhang, Meng Cao, Nicu Sebe, Ivan Laptev, Zhi Han#, Fahad Shahbaz Khan, Salman Khan. Continual Vision-Language Action Learning in Robotic Manipulation. **Conference on Computer Vision and Pattern Recognition, 2026**.
-- 
+
+- Zhiyu Liu, Haobo Geng, **Xudong Wang**, Yandong Tang, Zhi Han, Yao Wang. Lifelong Embodied Navigation Learning. **The Power of Small Initialization in Noisy Low-Tubal-Rank Tensor Recovery, 2026**.
+
 - **Xudong Wang**†, Jiahua Dong†, Baichen Liu#, Qi Lyu, Lianqing Liu, Zhi Han#. Lifelong Embodied Navigation Learning. **International Conference on Learning Representations, 2026**.
 
 - **Xudong Wang**†, Gan Li†, Zhiyu Liu, Yao Wang, Lianqing Liu, Zhi Han#. All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation. **International Conference on Learning Representations, 2026**.
