@@ -14,7 +14,7 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
 
 - **[Feb. 2026]** One Co-author paper about **Continual Video Instance Segmentation** has been accepted by **IEEE Transactions on Image Processing (CCF-A, Q1)**, congratulations to Baichen and Qi Lyu!
  
-- **[Feb. 2026]** One Co-first-author paper about **Lifelong Robotic Manipulation Learning** has been accepted by **IEEE CVPR 2026**, thanks for co-authors!
+- **[Feb. 2026]** One Co-first-author paper about **Lifelong Robotic Manipulation Learning** has been accepted by **IEEE CVPR 2026 (Core A\*, CCF-A)**, thanks for co-authors!
   
 - **[Jan. 2026]** One Co-author paper about **Tensor Recovery** has been accepted by **ICLR 2026**, congratulations to Zhiyu!
 
