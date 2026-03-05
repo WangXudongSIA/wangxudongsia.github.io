@@ -16,13 +16,13 @@ I also serve as CAA, AAAI Member and the reviewer for several conferences and jo
  
 - **[Feb. 2026]** One Co-first-author paper about **Lifelong Robotic Manipulation Learning** has been accepted by **IEEE CVPR 2026 (Core A\*, CCF-A)**, thanks for co-authors!
   
-- **[Jan. 2026]** One Co-author paper about **Tensor Recovery** has been accepted by **ICLR 2026**, congratulations to Zhiyu!
+- **[Jan. 2026]** One Co-author paper about **Tensor Recovery** has been accepted by **ICLR 2026 (CCF-A)**, congratulations to Zhiyu!
 
-- **[Jan. 2026]** Two Co-first-author paper about **Lifelong Robotic Embodied Navigation** and **All-day Lifelong Robotic Navigation** has been accepted by **ICLR 2026**, thanks for co-authors!
+- **[Jan. 2026]** Two Co-first-author paper about **Lifelong Robotic Embodied Navigation** and **All-day Lifelong Robotic Navigation** has been accepted by **ICLR 2026 (CCF-A)**, thanks for co-authors!
 
 - **[Dec. 2025]** I am honored to have been selected for the **China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral)**!
 
-- **[Nov. 2025]** One first-author paper about **Robotic Harsh Environment Perception** has been accepted by **IEEE Transactions on Multimedia (CCF-B, Q1)**, thanks for co-authors!
+- **[Nov. 2025]** One first-author paper about **Robotic Harsh Environment Perception** has been accepted by **IEEE Transactions on Multimedia (CCF-A, Q1)**, thanks for co-authors!
 
 - **[Oct. 2025]** Two Co-first-author paper about **Robotic Manipulation Skills Lifelong Learning** and **Continual T2V Customization** has been accepted by **AAAI 2026 (Core A\*, CCF-A)**, and one corresponding author paper about **Long-Horizon Vision-Language Navigation** has been accepted by **AAAI 2026 (Core A\*, CCF-A)**, thanks for co-authors!
 
