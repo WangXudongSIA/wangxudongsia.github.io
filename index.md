@@ -4,11 +4,10 @@ layout: homepage
 
 ## About Me
 
-I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my banchelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral). 
+I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my banchelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral). My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I also serve as CAA, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and IEEE TCYB, TIP, TNNLS, TII, RAL.
 
-My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**.
-
-I also serve as CAA, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and IEEE TCYB, TIP, TNNLS, TII, RAL.
+王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表CCF-A类学术论文10余篇，包括ICLR、CVPR、AAAI、TIP、TMM等。
+代招实习生与合作交流，欢迎联系：wangxudong@sia.cn
 
 ## News
 
