@@ -11,7 +11,7 @@ I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Syste
 
 ## News
 
-- **[Mar. 2026]** We provide a comprehensive survey for World Models, please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> Learning to Model the World</a>
+- **[Mar. 2026]** We provide a comprehensive survey for World Models, please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> Learning to Model the World</a>.
 
 - **[Feb. 2026]** One Co-author paper about **Continual Video Instance Segmentation** has been accepted by **IEEE Transactions on Image Processing (CCF-A, Q1)**, congratulations to Baichen and Qi Lyu!
  
