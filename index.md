@@ -11,6 +11,8 @@ I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Syste
 
 ## News
 
+- **[Mar. 2026]** We provide a comprehensive survey for World Models, please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> Learning to Model the World</a>
+
 - **[Feb. 2026]** One Co-author paper about **Continual Video Instance Segmentation** has been accepted by **IEEE Transactions on Image Processing (CCF-A, Q1)**, congratulations to Baichen and Qi Lyu!
  
 - **[Feb. 2026]** One Co-first-author paper about **Lifelong Robotic Manipulation Learning** has been accepted by **IEEE CVPR 2026 (Core A\*, CCF-A)**, thanks for co-authors!
@@ -41,6 +43,8 @@ I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Syste
 
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
+
+- Jiahua Dong†, Qi Lyu†, Baichen Liu#, **Xudong Wang**, Wenqi Liang, Duzhen Zhang, Jiahang Tu, Hongliu Li, Hanbin Zhao, Henghui Ding, Yulun Zhang, Zhi Han#, Nicu Sebe, Fahad Shahbaz Khan, Salman Khan, Mubarak Shan, Philip Torr, Ming-Hsuan Yang, Dacheng Tao. Learning to Model the World: A Survey of World Models in Artificial Intelligence. Preprints 2026.
 
 - Baichen Liu, Qi Lyu, **Xudong Wang**, Jiahua Dong, Lianqing Liu, Zhi Han. CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation. **IEEE Transactions on Image Processing, T-IP 2026**.
 
