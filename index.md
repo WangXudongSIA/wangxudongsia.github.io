@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my banchelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral). Currently I am an online visiting PhD student at <a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> LV Robotics Lab</a> at National University of Singapore (NUS) supervised by Prof. <a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Shuicheng Yan</a>.
+I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my banchelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST. Currently I am an online visiting PhD student at <a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> LV Robotics Lab</a> at National University of Singapore (NUS) supervised by Prof. <a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Shuicheng Yan</a>.
 
 My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I also serve as CAA, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and IEEE TCYB, TIP, TNNLS, TII, RAL.
 
@@ -23,7 +23,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 - **[Jan. 2026]** Two Co-first-author paper about **Lifelong Robotic Embodied Navigation** and **All-day Lifelong Robotic Navigation** has been accepted by **ICLR 2026 (CCF-A)**, thanks for co-authors!
 
-- **[Dec. 2025]** I am honored to have been selected for the **China Association for Science and Technology Young Scientific and Technological Talents Nurturing Program (Specialized Doctoral)**!
+- **[Dec. 2025]** I am honored to have been selected for the **the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST**!
 
 - **[Nov. 2025]** One first-author paper about **Robotic Harsh Environment Perception** has been accepted by **IEEE Transactions on Multimedia (CCF-A, Q1)**, thanks for co-authors!
 
