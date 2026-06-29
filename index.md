@@ -11,6 +11,24 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表CCF-A类学术论文10余篇，包括ICLR、CVPR、AAAI、TIP、TMM等。
 代招实习生与合作交流，欢迎联系：wangxudong@sia.cn
 
+<div class="project-card">
+
+<a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank"> <img src="/assets/images/Uni-SkillEvolver.png" alt="Uni-SkillEvolver"> </a>
+
+<h3> Uni-SkillEvolver <a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
+
+</div>
+
+<div class="project-card">
+
+<a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank"> <img src="/assets/images/AlldayWalker.png" alt="AlldayWalker"> </a>
+
+<h3> AlldayWalker <a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
+
+</div>
+
+<style> .project-card{ margin:35px 0 45px 0; } .project-card img{ width:100%; border-radius:10px; border:1px solid #ddd; transition:0.25s; box-shadow:0 3px 10px rgba(0,0,0,.08); } .project-card img:hover{ transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.15); } .project-card h3{ margin-top:14px; margin-bottom:0; } </style>
+
 ## News
 
 - **[Jun. 2026]** I am honored to have been awarded the **Jiang Xinsong Young Talent Fund**!
