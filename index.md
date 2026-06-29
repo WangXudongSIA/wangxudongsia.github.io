@@ -186,17 +186,44 @@ Remark: Co-first Authors (†), Corresponding Author (#).
 </style>
 
 
-SkillsCrater (AAAI 2026)
+<h3>
+  SkillsCrater (AAAI 2026)
+  <a href="https://skillscrafter-lifelong.github.io/"
+     target="_blank"
+     style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;">
+    [Project Page]
+  </a>
+</h3>
 
-<div class="local-video-grid video-grid-4">
+<div class="local-video-grid video-grid-2">
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_1.mp4" type="video/mp4"> </video> <p>Skill 1</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/assets/videos/skillscrater_1.mp4" type="video/mp4">
+  </video>
+  <p>close the top drawer</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_2.mp4" type="video/mp4"> </video> <p>Skill 2</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/assets/videos/skillscrater_2.mp4" type="video/mp4">
+  </video>
+  <p>put the round block onto the square block</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_3.mp4" type="video/mp4"> </video> <p>Skill 3</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/assets/videos/skillscrater_3.mp4" type="video/mp4">
+  </video>
+  <p>put the toy car into the box</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_4.mp4" type="video/mp4"> </video> <p>Skill 4</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/assets/videos/skillscrater_4.mp4" type="video/mp4">
+  </video>
+  <p>grab the bottle with the white cap</p>
+</div>
 
 </div>
 
