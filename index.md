@@ -80,7 +80,7 @@ Remark: Co-first Authors (†), Corresponding Author (#).
 
 ## Selected Project Demos
 
-AlldayWalker
+AlldayWalker (ICLR 2026)
 
 <div class="local-video-grid video-grid-4">
 
@@ -92,17 +92,17 @@ AlldayWalker
 
 <div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_4.gif" type="video/mp4"> </video> <p>Overexposure Scene Simulator</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_5.mp4" type="video/mp4"> </video> <p>Walk straight ahead, bypass the pole on the left, and find the cup in the middle of the blue cone and in front of the yellow cone.</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_5.mp4" type="video/mp4"> </video> <p>Walk straight ahead, bypass the pole on the left, and find the cup in the middle of the blue cone and in front of the yellow cone.</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_6.mp4" type="video/mp4"> </video> <p>Walk straight, pass around the left side of the cardboard box, and find the Cube located in front of the blue cone.</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_6.mp4" type="video/mp4"> </video> <p>Walk straight, pass around the left side of the cardboard box, and find the Cube located in front of the blue cone.</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_7.mp4" type="video/mp4"> </video> <p>Walk toward the fireplace. Exit the room and turn left. Stop in front of the double doors and tall potted plant.</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_7.mp4" type="video/mp4"> </video> <p>Walk toward the fireplace. Exit the room and turn left. Stop in front of the double doors and tall potted plant.</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_8.mp4" type="video/mp4"> </video> <p>Walk straight down the hall and into the room straight ahead. Wait near the entrance.</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_8.mp4" type="video/mp4"> </video> <p>Walk straight down the hall and into the room straight ahead. Wait near the entrance.</p> </div>
 
 </div>
 
-SkillsCrater
+SkillsCrater (AAAI 2026)
 
 <div class="local-video-grid video-grid-4">
 
@@ -113,16 +113,6 @@ SkillsCrater
 <div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_3.mp4" type="video/mp4"> </video> <p>Skill 3</p> </div>
 
 <div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_4.mp4" type="video/mp4"> </video> <p>Skill 4</p> </div>
-
-</div>
-
-SeqWalker
-
-<div class="local-video-grid video-grid-2">
-
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/seqwalker_1.mp4" type="video/mp4"> </video> <p>Demo 1</p> </div>
-
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/seqwalker_2.mp4" type="video/mp4"> </video> <p>Demo 2</p> </div>
 
 </div>
 
