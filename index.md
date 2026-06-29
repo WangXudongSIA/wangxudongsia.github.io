@@ -19,14 +19,6 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 </div>
 
-<div class="project-card">
-
-<a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank"> <img src="/assets/img/AlldayWalker.png" alt="AlldayWalker"> </a>
-
-<h3> AlldayWalker (ICLR 2026), All-Day Multi-Scenes Vision-and-Language Navigation <a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
-
-</div>
-
 <style> .project-card{ margin:35px 0 45px 0; } .project-card img{ width:100%; border-radius:10px; border:1px solid #ddd; transition:0.25s; box-shadow:0 3px 10px rgba(0,0,0,.08); } .project-card img:hover{ transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.15); } .project-card h3{ margin-top:14px; margin-bottom:0; } </style>
 
 ## News
