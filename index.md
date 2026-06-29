@@ -13,7 +13,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 <div class="project-card">
 
-<a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank"> <img src="/assets/images/Uni-SkillEvolver.png" alt="Uni-SkillEvolver"> </a>
+<a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank"> <img src="/assets/img/Uni-SkillEvolver.png" alt="Uni-SkillEvolver"> </a>
 
 <h3> Uni-SkillEvolver <a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
 
@@ -21,7 +21,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 <div class="project-card">
 
-<a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank"> <img src="/assets/images/AlldayWalker.png" alt="AlldayWalker"> </a>
+<a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank"> <img src="/assets/img/AlldayWalker.png" alt="AlldayWalker"> </a>
 
 <h3> AlldayWalker <a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
 
