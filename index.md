@@ -84,21 +84,21 @@ AlldayWalker
 
 <div class="local-video-grid video-grid-4">
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_1.mp4" type="video/mp4"> </video> <p>Demo 1</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_1.gif" type="video/mp4"> </video> <p>Natural Light Scene Simulator</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_2.mp4" type="video/mp4"> </video> <p>Demo 2</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_2.gif" type="video/mp4"> </video> <p>Scattering Scene Simulator</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_3.mp4" type="video/mp4"> </video> <p>Demo 3</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_3.gif" type="video/mp4"> </video> <p>Low-light Scene Simulator</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_4.mp4" type="video/mp4"> </video> <p>Demo 4</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_4.gif" type="video/mp4"> </video> <p>Overexposure Scene Simulator</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_5.mp4" type="video/mp4"> </video> <p>Demo 5</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_5.mp4" type="video/mp4"> </video> <p>Walk straight ahead, bypass the pole on the left, and find the cup in the middle of the blue cone and in front of the yellow cone.</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_6.mp4" type="video/mp4"> </video> <p>Demo 6</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_6.mp4" type="video/mp4"> </video> <p>Walk straight, pass around the left side of the cardboard box, and find the Cube located in front of the blue cone.</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_7.mp4" type="video/mp4"> </video> <p>Demo 7</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_7.mp4" type="video/mp4"> </video> <p>Walk toward the fireplace. Exit the room and turn left. Stop in front of the double doors and tall potted plant.</p> </div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_8.mp4" type="video/mp4"> </video> <p>Demo 8</p> </div>
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_8.mp4" type="video/mp4"> </video> <p>Walk straight down the hall and into the room straight ahead. Wait near the entrance.</p> </div>
 
 </div>
 
