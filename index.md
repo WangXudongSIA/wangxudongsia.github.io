@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my banchelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST. Currently I am a visiting PhD student at <a href="https://www.lv-lab.org/nus/index.html" target="_blank"> LV Robotics Lab</a> at National University of Singapore (NUS) supervised by Prof. <a href="https://yanshuicheng.info/" target="_blank"> Shuicheng Yan</a>.
+I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my bachelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST. Currently I am a visiting PhD student at <a href="https://www.lv-lab.org/nus/index.html" target="_blank"> LV Robotics Lab</a> at National University of Singapore (NUS) supervised by Prof. <a href="https://yanshuicheng.info/" target="_blank"> Shuicheng Yan</a>.
 
-My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I serve as CAA, CSIG, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and IEEE TCYB, TIP, TNNLS, TII, RAL, I am also honored to have been awarded the Gold Reviewer Award for ICML 2026.
+My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I serve as CAA, CIE, CSIG, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and IEEE TCYB, TIP, TNNLS, TII, RAL, I am also honored to have been awarded the Gold Reviewer Award for ICML 2026.
 
 王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表CCF-A类学术论文10余篇，包括ICLR、CVPR、AAAI、TIP、TMM等。
 代招实习生与合作交流，欢迎联系：wangxudong@sia.cn
@@ -77,3 +77,54 @@ Remark: Co-first Authors (†), Corresponding Author (#).
 - **Xudong Wang**, Xi’ai Chen#, Weihong Ren, Zhi Han, Huijie Fan, Yandong Tang, Lianqing Liu. Compensation Atmospheric Scattering Model and Two-Branch Network for Single Image Dehazing. **IEEE Transactions on Emerging Topics in Computational Intelligence, T-ETCI 2024**.
 
 - **Xudong Wang**, Xi’ai Chen#, Feifan Wang, Chonglong Xu, Yandong Tang. Image Recovery and Object Detection Integrated Algorithms for Robots in Harsh Battlefield Environments. **International Conference on Intelligent Robotics and Applications, ICIRA 2023 (Oral)**.
+
+## Selected Project Demos
+
+AlldayWalker
+
+<div class="local-video-grid video-grid-4">
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_1.mp4" type="video/mp4"> </video> <p>Demo 1</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_2.mp4" type="video/mp4"> </video> <p>Demo 2</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_3.mp4" type="video/mp4"> </video> <p>Demo 3</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_4.mp4" type="video/mp4"> </video> <p>Demo 4</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_5.mp4" type="video/mp4"> </video> <p>Demo 5</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_6.mp4" type="video/mp4"> </video> <p>Demo 6</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_7.mp4" type="video/mp4"> </video> <p>Demo 7</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/alldaywalker_8.mp4" type="video/mp4"> </video> <p>Demo 8</p> </div>
+
+</div>
+
+SkillsCrater
+
+<div class="local-video-grid video-grid-4">
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_1.mp4" type="video/mp4"> </video> <p>Skill 1</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_2.mp4" type="video/mp4"> </video> <p>Skill 2</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_3.mp4" type="video/mp4"> </video> <p>Skill 3</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/skillscrater_4.mp4" type="video/mp4"> </video> <p>Skill 4</p> </div>
+
+</div>
+
+SeqWalker
+
+<div class="local-video-grid video-grid-2">
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/seqwalker_1.mp4" type="video/mp4"> </video> <p>Demo 1</p> </div>
+
+<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/assets/videos/seqwalker_2.mp4" type="video/mp4"> </video> <p>Demo 2</p> </div>
+
+</div>
+
+<style> .local-video-grid { display: grid; gap: 16px; margin-top: 12px; margin-bottom: 28px; } .video-grid-4 { grid-template-columns: repeat(4, 1fr); } .video-grid-2 { grid-template-columns: repeat(2, 1fr); } .local-video-card { text-align: center; } .local-video-card video { width: 100%; aspect-ratio: 16 / 9; border-radius: 8px; background: #f5f5f5; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.08); } .local-video-card p { margin-top: 6px; margin-bottom: 0; font-size: 14px; line-height: 1.4; } @media (max-width: 900px) { .video-grid-4 { grid-template-columns: repeat(2, 1fr); } } @media (max-width: 600px) { .video-grid-4, .video-grid-2 { grid-template-columns: 1fr; } } </style>
+
