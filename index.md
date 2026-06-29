@@ -13,7 +13,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 <div class="project-card">
 
-<a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank"> <img src="/assets/img/Uni-SkillEvolver.png" alt="Uni-SkillEvolver"> </a>
+<a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank"> <img src="/assets/img/SkillEvolver.png" alt="Uni-SkillEvolver"> </a>
 
 <h3> Uni-SkillEvolver <a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
 
