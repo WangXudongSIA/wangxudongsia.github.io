@@ -15,7 +15,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 <a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank"> <img src="/assets/img/SkillEvolver.png" alt="Uni-SkillEvolver"> </a>
 
-<h3> Uni-SkillEvolver <a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
+<h3> Uni-SkillEvolver, Lifelong Robotic Skills Learning<a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
 
 </div>
 
@@ -23,7 +23,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 <a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank"> <img src="/assets/img/AlldayWalker.png" alt="AlldayWalker"> </a>
 
-<h3> AlldayWalker (ICLR 2026) <a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
+<h3> AlldayWalker (ICLR 2026), All-Day Multi-Scenes Vision-and-Language Navigation <a href="https://ganvin-li.github.io/AlldayWalker/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
 
 </div>
 
