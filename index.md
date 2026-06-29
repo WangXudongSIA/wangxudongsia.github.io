@@ -199,28 +199,28 @@ Remark: Co-first Authors (†), Corresponding Author (#).
 
 <div class="local-video-card">
   <video controls muted preload="metadata">
-    <source src="/assets/videos/skillscrater_1.mp4" type="video/mp4">
+    <source src="/videos/skillscrater_1.mp4" type="video/mp4">
   </video>
   <p>close the top drawer</p>
 </div>
 
 <div class="local-video-card">
   <video controls muted preload="metadata">
-    <source src="/assets/videos/skillscrater_2.mp4" type="video/mp4">
+    <source src="/videos/skillscrater_2.mp4" type="video/mp4">
   </video>
   <p>put the round block onto the square block</p>
 </div>
 
 <div class="local-video-card">
   <video controls muted preload="metadata">
-    <source src="/assets/videos/skillscrater_3.mp4" type="video/mp4">
+    <source src="/videos/skillscrater_3.mp4" type="video/mp4">
   </video>
   <p>put the toy car into the box</p>
 </div>
 
 <div class="local-video-card">
   <video controls muted preload="metadata">
-    <source src="/assets/videos/skillscrater_4.mp4" type="video/mp4">
+    <source src="/videos/skillscrater_4.mp4" type="video/mp4">
   </video>
   <p>grab the bottle with the white cap</p>
 </div>
