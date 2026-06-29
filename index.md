@@ -80,27 +80,100 @@ Remark: Co-first Authors (†), Corresponding Author (#).
 
 ## Selected Project Demos
 
-AlldayWalker (ICLR 2026)
+### AlldayWalker (ICLR 2026)
 
-<div class="local-video-grid video-grid-4">
+<div class="local-video-grid video-grid-2">
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_1.gif" type="video/mp4"> </video> <p>Natural Light Scene Simulator</p> </div>
+<div class="local-video-card">
+  <img src="/videos/alldaywalker_1.gif" alt="Natural Light Scene Simulator">
+  <p>Natural Light Scene Simulator</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_2.gif" type="video/mp4"> </video> <p>Scattering Scene Simulator</p> </div>
+<div class="local-video-card">
+  <img src="/videos/alldaywalker_2.gif" alt="Scattering Scene Simulator">
+  <p>Scattering Scene Simulator</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_3.gif" type="video/mp4"> </video> <p>Low-light Scene Simulator</p> </div>
+<div class="local-video-card">
+  <img src="/videos/alldaywalker_3.gif" alt="Low-light Scene Simulator">
+  <p>Low-light Scene Simulator</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_4.gif" type="video/mp4"> </video> <p>Overexposure Scene Simulator</p> </div>
+<div class="local-video-card">
+  <img src="/videos/alldaywalker_4.gif" alt="Overexposure Scene Simulator">
+  <p>Overexposure Scene Simulator</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_5.mp4" type="video/mp4"> </video> <p>Walk straight ahead, bypass the pole on the left, and find the cup in the middle of the blue cone and in front of the yellow cone.</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/videos/alldaywalker_5.mp4" type="video/mp4">
+  </video>
+  <p>Walk straight ahead, bypass the pole on the left, and find the cup in the middle of the blue cone and in front of the yellow cone.</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_6.mp4" type="video/mp4"> </video> <p>Walk straight, pass around the left side of the cardboard box, and find the Cube located in front of the blue cone.</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/videos/alldaywalker_6.mp4" type="video/mp4">
+  </video>
+  <p>Walk straight, pass around the left side of the cardboard box, and find the Cube located in front of the blue cone.</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_7.mp4" type="video/mp4"> </video> <p>Walk toward the fireplace. Exit the room and turn left. Stop in front of the double doors and tall potted plant.</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/videos/alldaywalker_7.mp4" type="video/mp4">
+  </video>
+  <p>Walk toward the fireplace. Exit the room and turn left. Stop in front of the double doors and tall potted plant.</p>
+</div>
 
-<div class="local-video-card"> <video controls muted preload="metadata"> <source src="/videos/alldaywalker_8.mp4" type="video/mp4"> </video> <p>Walk straight down the hall and into the room straight ahead. Wait near the entrance.</p> </div>
+<div class="local-video-card">
+  <video controls muted preload="metadata">
+    <source src="/videos/alldaywalker_8.mp4" type="video/mp4">
+  </video>
+  <p>Walk straight down the hall and into the room straight ahead. Wait near the entrance.</p>
+</div>
 
 </div>
+
+<style>
+.local-video-grid {
+  display: grid;
+  gap: 22px;
+  margin-top: 14px;
+  margin-bottom: 32px;
+}
+
+.video-grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.local-video-card {
+  text-align: center;
+}
+
+.local-video-card video,
+.local-video-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  background: #000;
+  object-fit: contain;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.local-video-card p {
+  margin-top: 8px;
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+@media (max-width: 700px) {
+  .video-grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
 
 SkillsCrater (AAAI 2026)
 
