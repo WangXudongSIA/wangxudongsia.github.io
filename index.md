@@ -23,6 +23,8 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 ## News
 
+- **[Jul. 2026]** We provide a comprehensive survey for Vision-and-Language Navigation, please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation</a>.
+- 
 - **[Jun. 2026]** I am honored to have been awarded the **Jiang Xinsong Young Talent Fund**!
 
 - **[May. 2026]** I am honored to have been awarded the **Government-sponsored overseas study funding by the China Scholarship Council (CSC)**!
@@ -61,6 +63,8 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
+
+- Kailin Lyu, et al. From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation. Preprints 2026.
 
 - Jiahua Dong†, Qi Lyu†, Baichen Liu#, **Xudong Wang**, Wenqi Liang, Duzhen Zhang, Jiahang Tu, Hongliu Li, Hanbin Zhao, Henghui Ding, Yulun Zhang, Zhi Han#, Nicu Sebe, Fahad Shahbaz Khan, Salman Khan, Mubarak Shan, Philip Torr, Ming-Hsuan Yang, Dacheng Tao. Learning to Model the World: A Survey of World Models in Artificial Intelligence. Preprints 2026.
 
