@@ -8,7 +8,7 @@ I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Syste
 
 My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I serve as CAA, CIE, CSIG, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and TMLR, IEEE TCYB, TIP, TNNLS, TII, RAL, I am also honored to have been awarded the Gold Reviewer Award for ICML 2026.
 
-王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表CCF-A类学术论文10余篇，包括ICLR、CVPR、AAAI、TIP、TMM等。
+王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表CCF-A类学术论文20余篇，包括ICLR、CVPR、AAAI、TIP、TMM等。
 代招实习生与合作交流，欢迎联系：wangxudong@sia.cn
 
 <div class="project-card">
