@@ -8,7 +8,7 @@ I’m a second-year Ph.D. candidate in Pattern Recognition and Intelligent Syste
 
 My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I serve as CAA, CIE, CSIG, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and TMLR, IEEE TCYB, TIP, TNNLS, TII, RAL, I am also honored to have been awarded the Gold Reviewer Award for ICML 2026.
 
-王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表CCF-A类学术论文20余篇，包括ICLR、CVPR、AAAI、TIP、TMM等。
+王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表学术论文20余篇，包括ICLR、CVPR、AAAI、TCYB、TIP、TMM、TCSVT等。
 代招实习生与合作交流，欢迎联系：wangxudong@sia.cn
 
 <div class="project-card">
@@ -16,6 +16,16 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 <a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank"> <img src="/assets/img/SkillEvolver.png" alt="Uni-SkillEvolver"> </a>
 
 <h3> Uni-SkillEvolver, Lifelong Robotic Skills Learning<a href="https://wangxudongsia.github.io/Uni-SkillEvolver/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
+
+</div>
+
+<style> .project-card{ margin:35px 0 45px 0; } .project-card img{ width:100%; border-radius:10px; border:1px solid #ddd; transition:0.25s; box-shadow:0 3px 10px rgba(0,0,0,.08); } .project-card img:hover{ transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.15); } .project-card h3{ margin-top:14px; margin-bottom:0; } </style>
+
+<div class="project-card">
+
+<a href="https://ganvin-li.github.io/TuKA-pp/" target="_blank"> <img src="/assets/img/TuKA.png" alt="TuKA++"> </a>
+
+<h3> TuKA++: Multi-Factor Lifelong Embodied Navigation Learning with Tucker Adaptation<a href="https://ganvin-li.github.io/TuKA-pp/" target="_blank" style="font-size:16px; font-weight:normal; color:#1a73e8; margin-left:12px; text-decoration:none;"> [Project Page] </a> </h3>
 
 </div>
 
