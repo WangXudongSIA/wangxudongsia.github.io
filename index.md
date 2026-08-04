@@ -33,6 +33,8 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 ## News
 
+- **[Aug. 2026]** One First-author paper about **Reasoning Vision-and-Language Navigation with Implicit Instructions** has been accepted by **IEEE Transactions on Cybernetics (CAA-A+, Q1)**, thanks for co-authors!
+
 - **[Jul. 2026]** We provide a comprehensive survey for Vision-and-Language Navigation, please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation</a>.
 - 
 - **[Jun. 2026]** I am honored to have been awarded the **Jiang Xinsong Young Talent Fund**!
@@ -73,6 +75,8 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
+
+- **Xudong Wang**, Baichen Liu, Jiahua Dong, Xi’ai Chen, Yandong Tang, Honghai Liu, Lianqing Liu, Zhi Han#. “ReasonWalker: Reasoning Iterative Vision-and-Language Navigation with Implicit Instructions”. **IEEE Transactions on Cybernetics, T-CYB 2026**.
 
 - Kailin Lyu, et al. From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation. Preprints 2026.
 
