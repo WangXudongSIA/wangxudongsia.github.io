@@ -38,7 +38,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 - **[Aug. 2026]** One First-author paper about **Reasoning Vision-and-Language Navigation with Implicit Instructions** has been accepted by **IEEE Transactions on Cybernetics (CAA-A+, Q1)**, thanks for co-authors!
 
 - **[Jul. 2026]** We provide a comprehensive survey for Vision-and-Language Navigation, please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation</a>.
-- 
+
 - **[Jun. 2026]** I am honored to have been awarded the **Jiang Xinsong Young Talent Fund**!
 
 - **[May. 2026]** I am honored to have been awarded the **Government-sponsored overseas study funding by the China Scholarship Council (CSC)**!
