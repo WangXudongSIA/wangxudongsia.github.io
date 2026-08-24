@@ -78,7 +78,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
 
-- **Gan Li†, **Xudong Wang†**, Yue Liao, Xuewei Lv, Jiahua Dong, Xiyao Liu, Yanbo Wang, Pinle Qin, Lianqing Liu, Zhi Han#. “Evolving the Prototype Journey: Lifelong Vision-and-Language Navigation with Prototype Adaptation”. **IEEE Transactions on Circuits and Systems for Video Technology, T-CSVT 2026**.
+- Gan Li†, **Xudong Wang†**, Yue Liao, Xuewei Lv, Jiahua Dong, Xiyao Liu, Yanbo Wang, Pinle Qin, Lianqing Liu, Zhi Han#. “Evolving the Prototype Journey: Lifelong Vision-and-Language Navigation with Prototype Adaptation”. **IEEE Transactions on Circuits and Systems for Video Technology, T-CSVT 2026**.
 
 - **Xudong Wang**, Baichen Liu, Jiahua Dong, Xi’ai Chen, Yandong Tang, Honghai Liu, Lianqing Liu, Zhi Han#. “ReasonWalker: Reasoning Iterative Vision-and-Language Navigation with Implicit Instructions”. **IEEE Transactions on Cybernetics, T-CYB 2026**.
 
