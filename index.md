@@ -32,6 +32,7 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 <style> .project-card{ margin:35px 0 45px 0; } .project-card img{ width:100%; border-radius:10px; border:1px solid #ddd; transition:0.25s; box-shadow:0 3px 10px rgba(0,0,0,.08); } .project-card img:hover{ transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.15); } .project-card h3{ margin-top:14px; margin-bottom:0; } </style>
 
 ## News
+- **[Sep. 2026]** One First-author paper about **Lifelong Vision-and-Language Navigation** has been accepted by Chinese Annual Conference 2026, thanks for co-authors!
 
 - **[Sep. 2026]** We provide a comprehensive Evaluation for Omni-Modal Generative (MiniMax-H3), please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model</a>.
 
@@ -79,6 +80,10 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 ## Selected Publications
 Remark: Co-first Authors (†), Corresponding Author (#).
+
+- **Xudong Wang**, Haoyu Zhao, Zhiyu Liu, Zhi Han#. Lifelong Vision-and-Language Navigation Learning. Chinese Annual Conference, CAC 2026.
+  
+- Haoyu Zhao, Zihao Zhao, Tianyu Deng, Ziqin Xu, Zihao Zhang, **Xudong Wang**, Jinxiang Guo, Chen Gao, Ziyi Ye, Yeying Jin#, Jiaxi Gu#, Zuxuan Wu, Shuicheng Yan. Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model. Preprints 2026.
 
 - Gan Li†, **Xudong Wang†**, Yue Liao, Xuewei Lv, Jiahua Dong, Xiyao Liu, Yanbo Wang, Pinle Qin, Lianqing Liu, Zhi Han#. “Evolving the Prototype Journey: Lifelong Vision-and-Language Navigation with Prototype Adaptation”. **IEEE Transactions on Circuits and Systems for Video Technology, T-CSVT 2026**.
 
