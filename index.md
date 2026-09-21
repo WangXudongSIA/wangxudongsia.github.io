@@ -34,13 +34,13 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 ## News
 - **[Sep. 2026]** One First-author paper about **Lifelong Vision-and-Language Navigation** has been accepted by Chinese Annual Conference 2026, thanks for co-authors!
 
-- **[Sep. 2026]** We provide a comprehensive Evaluation for Omni-Modal Generative (MiniMax-H3), please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model</a>.
+- **[Sep. 2026]** We provide a comprehensive Evaluation for Omni-Modal Generative (MiniMax-H3), please refer to <a href="https://arxiv.org/pdf/2609.18323" target="_blank"> Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model</a>.
 
 - **[Aug. 2026]** One Co-first-author paper about **Lifelong Vision-and-Language Navigation Learning** has been accepted by **IEEE Transactions on Circuits and Systems for Video Technology (CCF-B, Q1)**, congratulations to Gan Li, thanks for co-authors!
 
 - **[Aug. 2026]** One First-author paper about **Reasoning Vision-and-Language Navigation with Implicit Instructions** has been accepted by **IEEE Transactions on Cybernetics (CAA-A+, Q1)**, thanks for co-authors!
 
-- **[Jul. 2026]** We provide a comprehensive survey for Vision-and-Language Navigation, please refer to <a href="https://www.preprints.org/manuscript/202603.0739" target="_blank"> From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation</a>.
+- **[Jul. 2026]** We provide a comprehensive survey for Vision-and-Language Navigation, please refer to <a href="https://www.preprints.org/manuscript/202606.2231" target="_blank"> From Instruction Following to Cognitive Navigation: A Survey on the Evolution of Vision-and-Language Navigation</a>.
 
 - **[Jun. 2026]** I am honored to have been awarded the **Jiang Xinsong Young Talent Fund**!
 
