@@ -6,10 +6,19 @@ layout: homepage
 
 I’m a third-year Ph.D. candidate in Pattern Recognition and Intelligent Systems at State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences (SIA) & University of Chinese Academy of Sciences (UCAS) under the supervision of Prof.<a href="https://sia.cas.cn/vision/kytd/yjry/202307/t20230726_6834579.html" target="_blank"> Zhi Han</a>. Before UCAS, I received my bachelor’s degree in Jun. 2022 at North University of China. I am a selected participant in the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST. Currently I am a visiting PhD student at <a href="https://www.lv-lab.org/nus/index.html" target="_blank"> LV Robotics Lab</a> at National University of Singapore (NUS) supervised by Prof. <a href="https://yanshuicheng.info/" target="_blank"> Shuicheng Yan</a> (Fellow of AAAI, ACM, SAEng, IEEE, IAPR).
 
-My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I serve as CAA, CIE, CSIG, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICME and TMLR, IEEE TCYB, TIP, TNNLS, TII, RAL, I am also honored to have been awarded the Gold Reviewer Award for ICML 2026.
+My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I serve as CAA, CIE, CSIG, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICRA and TMLR, IEEE TCYB, TIP, TNNLS, TII, RAL, I am also honored to have been awarded the Gold Reviewer Award for ICML 2026.
 
-王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表学术论文30余篇，包括ICLR、CVPR、AAAI、TCYB、TIP、TMM、TCSVT等。
-代招实习生与合作交流，欢迎联系：wangxudong@sia.cn
+王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者。在人工智能与智能机器人领域发表学术论文30余篇，包括 ICLR、CVPR、AAAI、TCYB、TRL、TASE、TIP、TMM、TCSVT 等。目前主要研究方向：Lifelong Robotic Learning、Self-Evolving Robots 和 Computer Vision。
+
+**实习生培养**：
+
+- 往届实习生： Zebin（25, 双非->东南杰青组）、Gan（26, 双非->清华领军组）、Jingxuan（26, 211->上海交通大学）。
+
+- 在研实习生： Haojin（26, 人形具身学习，组内直博）、Rongxin（全天候具身操作，27待推免）。
+
+欢迎对机器人学习、具身智能等方向感兴趣的优秀本科生加入实习，也非常期待与相关领域的老师和同学开展学术合作与交流。欢迎发送简历至：wangxudong@sia.cn。
+
+目前，我正积极寻求国内高校及科研院所的教职机会，真诚期待有机会加入优秀的科研团队，共同开展学术研究与人才培养工作。非常欢迎有招聘意向的院系及老师与我联系，衷心感谢您的关注与支持！微信：13015487858。
 
 <div class="project-card">
 
