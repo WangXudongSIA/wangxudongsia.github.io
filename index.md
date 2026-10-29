@@ -8,17 +8,7 @@ I’m a third-year Ph.D. candidate in Pattern Recognition and Intelligent System
 
 My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vision**. I serve as CAA, CIE, CSIG, AAAI Member and the reviewer for several conferences and journals such as ICLR, ICML, NeurIPS, CVPR, ICCV, ACM MM, AAAI, ICRA and TMLR, IEEE TCYB, TIP, TNNLS, TII, RAL, I am also honored to have been awarded the Gold Reviewer Award for ICML 2026.
 
-王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者。在人工智能与智能机器人领域发表学术论文30余篇，包括 ICLR、CVPR、AAAI、TCYB、TRL、TASE、TIP、TMM、TCSVT 等。目前主要研究方向：Lifelong Robotic Learning、Self-Evolving Robots 和 Computer Vision。
-
-**学生培养**：
-
-- 往届同学： Zebin（25, 双非->东南-杰青）、Gan（26, 双非->清华-领军）、Jingxuan（26, 211->上海交通大学）。
-
-- 在研同学： Rui (25, 新一代韧性机器人, 组内直博)、Haojin（26, 人形具身学习, 组内直博）、Rongxin（全天候具身操作, 27待推免）。
-
-欢迎对机器人学习、具身智能等方向感兴趣的优秀本科生/研究生加入实习，也非常期待与相关领域的老师和同学开展学术合作与交流。欢迎发送简历至：wangxudong@sia.cn。
-
-目前，我正积极寻求国内高校及科研院所的教职机会，真诚期待有机会加入优秀的科研团队，共同开展学术研究与人才培养工作。非常欢迎有招聘意向的院系及老师与我联系，衷心感谢您的关注与支持！微信：13015487858。
+王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者，在人工智能与智能机器人领域发表学术论文30余篇，包括ICLR、CVPR、AAAI、TCYB、TIP、TMM、TCSVT等。 代招实习生与合作交流，欢迎联系：wangxudong@sia.cn
 
 <div class="project-card">
 
