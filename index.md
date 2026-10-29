@@ -10,11 +10,11 @@ My research focuses on **Robotic Learning**, **Embodied AI**, and **Computer Vis
 
 王旭东，机器人与智能系统全国重点实验室博士研究生，中国科协青年科技人才培育工程博士生专项计划入选者。在人工智能与智能机器人领域发表学术论文30余篇，包括 ICLR、CVPR、AAAI、TCYB、TRL、TASE、TIP、TMM、TCSVT 等。目前主要研究方向：Lifelong Robotic Learning、Self-Evolving Robots 和 Computer Vision。
 
-**实习生培养**：
+**学生培养**：
 
-- 往届实习生： Zebin（25, 双非->东南杰青组）、Gan（26, 双非->清华领军组）、Jingxuan（26, 211->上海交通大学）。
+- 往届同学： Zebin（25, 双非->东南-杰青）、Gan（26, 双非->清华-领军）、Jingxuan（26, 211->上海交通大学）。
 
-- 在研实习生： Haojin（26, 人形具身学习，组内直博）、Rongxin（全天候具身操作，27待推免）。
+- 在研同学： Rui (25, 新一代韧性机器人, 组内直博)、Haojin（26, 人形具身学习, 组内直博）、Rongxin（全天候具身操作, 27待推免）。
 
 欢迎对机器人学习、具身智能等方向感兴趣的优秀本科生加入实习，也非常期待与相关领域的老师和同学开展学术合作与交流。欢迎发送简历至：wangxudong@sia.cn。
 
